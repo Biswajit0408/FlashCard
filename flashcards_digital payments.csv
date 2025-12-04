@@ -1,0 +1,117 @@
+question,answer,short_context,method,verify_metrics,score,context
+What type of payments have reshaped India's financial landscape?,"Digital payments in India have reshaped the country’s financial landscape, bringing a major shift 
+from traditional cash-based transactions to fast, secure, and convenient digital methods.","Digital payments in India have reshaped the country’s financial landscape, bringing a major shift 
+from traditional cash-based transactions to fast, secure, and convenient digital methods. This 
+transformation began gaining momentum with the governme...",qg_verified_expanded,"{'predicted_span': 'Digital', 'predicted_full': 'Digital payments in India have reshaped the country’s financial landscape, bringing a major shift \nfrom traditional cash-based transactions to fast, secure, and convenient digital methods.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Digital payments in India have reshaped the country’s financial landscape, bringing a major shift 
+from traditional cash-based transactions to fast, secure, and convenient digital methods."
+What was the name of the government's initiative that began gaining momentum?,"This 
+transformation began gaining momentum with the government’s Digital India initiative and 
+accelerated significantly after the 2016 demonetization, when people were encouraged to adopt 
+electronic modes of payment.","Digital payments in India have reshaped the country’s financial landscape, bringing a major shift 
+from traditional cash-based transactions to fast, secure, and convenient digital methods. This 
+transformation began gaining momentum with the governme...",qg_verified_expanded,"{'predicted_span': 'Digital India', 'predicted_full': 'This \ntransformation began gaining momentum with the government’s Digital India initiative and \naccelerated significantly after the 2016 demonetization, when people were encouraged to adopt \nelectronic modes of payment.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"This 
+transformation began gaining momentum with the government’s Digital India initiative and 
+accelerated significantly after the 2016 demonetization, when people were encouraged to adopt 
+electronic modes of payment."
+What country has one of the world's largest digital payment ecosystems?,"This 
+transformation began gaining momentum with the government’s Digital India initiative and 
+accelerated significantly after the 2016 demonetization, when people were encouraged to adopt 
+electronic modes of payment.","This 
+transformation began gaining momentum with the government’s Digital India initiative and 
+accelerated significantly after the 2016 demonetization, when people were encouraged to adopt 
+electronic modes of payment. Today, India stands as one of ...",qg_verified_expanded,"{'predicted_span': 'India', 'predicted_full': 'This \ntransformation began gaining momentum with the government’s Digital India initiative and \naccelerated significantly after the 2016 demonetization, when people were encouraged to adopt \nelectronic modes of payment.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Today, India stands as one of the world’s largest digital payment 
+ecosystems, with platforms like UPI (Unified Payments Interface), mobile wallets, internet 
+banking, and QR-code payments becoming an integral part of daily life."
+What has revolutionized how Indians exchange money?,"Today, India stands as one of the world’s largest digital payment 
+ecosystems, with platforms like UPI (Unified Payments Interface), mobile wallets, internet 
+banking, and QR-code payments becoming an integral part of daily life.","Today, India stands as one of the world’s largest digital payment 
+ecosystems, with platforms like UPI (Unified Payments Interface), mobile wallets, internet 
+banking, and QR-code payments becoming an integral part of daily life. UPI, in particular, ...",qg_verified_expanded,"{'predicted_span': 'UPI', 'predicted_full': 'Today, India stands as one of the world’s largest digital payment \necosystems, with platforms like UPI (Unified Payments Interface), mobile wallets, internet \nbanking, and QR-code payments becoming an integral part of daily life.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"UPI, in particular, has revolutionized how Indians exchange money."
+"Besides income levels, what other groups use the bank-to-bank transfer system?","Its real-time, bank-to-bank 
+transfer system is simple, free, and accessible to everyone with a smartphone, making it popular 
+across all age groups and income levels.","UPI, in particular, has revolutionized how Indians exchange money. Its real-time, bank-to-bank 
+transfer system is simple, free, and accessible to everyone with a smartphone, making it popular 
+across all age groups and income levels. Street vendors,...",qg_verified_expanded,"{'predicted_span': 'all age groups', 'predicted_full': 'Its real-time, bank-to-bank \ntransfer system is simple, free, and accessible to everyone with a smartphone, making it popular \nacross all age groups and income levels.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Its real-time, bank-to-bank 
+transfer system is simple, free, and accessible to everyone with a smartphone, making it popular 
+across all age groups and income levels."
+"What do street vendors, small shopkeepers, cab drivers, students, and professionals use with ease?","Street vendors, small shopkeepers, cab drivers, 
+students, and professionals now use UPI with equal ease.","Its real-time, bank-to-bank 
+transfer system is simple, free, and accessible to everyone with a smartphone, making it popular 
+across all age groups and income levels. Street vendors, small shopkeepers, cab drivers, 
+students, and professionals now u...",qg_verified_expanded,"{'predicted_span': 'UPI', 'predicted_full': 'Street vendors, small shopkeepers, cab drivers, \nstudents, and professionals now use UPI with equal ease.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Street vendors, small shopkeepers, cab drivers, 
+students, and professionals now use UPI with equal ease."
+What has this widespread adoption contributed to?,"This widespread adoption has helped 
+bridge the gap between formal and informal financial sectors, contributing to greater financial 
+inclusion.","Street vendors, small shopkeepers, cab drivers, 
+students, and professionals now use UPI with equal ease. This widespread adoption has helped 
+bridge the gap between formal and informal financial sectors, contributing to greater financial 
+inclusion....",qg_verified_expanded,"{'predicted_span': 'greater financial \ninclusion', 'predicted_full': 'This widespread adoption has helped \nbridge the gap between formal and informal financial sectors, contributing to greater financial \ninclusion.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"This widespread adoption has helped 
+bridge the gap between formal and informal financial sectors, contributing to greater financial 
+inclusion."
+"Along with payment apps, what has made it easier for people to pay bills?","Mobile wallets and payment apps have also made it easier for people to pay bills, 
+shop online, recharge services, and transfer funds without needing physical cash.","This widespread adoption has helped 
+bridge the gap between formal and informal financial sectors, contributing to greater financial 
+inclusion. Mobile wallets and payment apps have also made it easier for people to pay bills, 
+shop online, recharge ...",qg_verified_expanded,"{'predicted_span': 'Mobile wallets', 'predicted_full': 'Mobile wallets and payment apps have also made it easier for people to pay bills, \nshop online, recharge services, and transfer funds without needing physical cash.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Mobile wallets and payment apps have also made it easier for people to pay bills, 
+shop online, recharge services, and transfer funds without needing physical cash."
+The rise of digital payments has brought what to the economy?,The rise of digital payments has brought several benefits to the economy as well.,"Mobile wallets and payment apps have also made it easier for people to pay bills, 
+shop online, recharge services, and transfer funds without needing physical cash. The rise of digital payments has brought several benefits to the economy as well. It ...",qg_verified_expanded,"{'predicted_span': 'several benefits', 'predicted_full': 'The rise of digital payments has brought several benefits to the economy as well.', 'f1': 1.0, 'fuzz': 1.0}",1.0,The rise of digital payments has brought several benefits to the economy as well.
+What did the IRS create to improve tax compliance?,"It has 
+increased transparency, reduced corruption, and improved tax compliance by creating a clean 
+digital trail.","The rise of digital payments has brought several benefits to the economy as well. It has 
+increased transparency, reduced corruption, and improved tax compliance by creating a clean 
+digital trail. Businesses of all sizes have gained from faster tran...",qg_verified_expanded,"{'predicted_span': 'a clean \ndigital trail', 'predicted_full': 'It has \nincreased transparency, reduced corruption, and improved tax compliance by creating a clean \ndigital trail.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"It has 
+increased transparency, reduced corruption, and improved tax compliance by creating a clean 
+digital trail."
+What have businesses gained from faster transactions?,"Businesses of all sizes have gained from faster transactions, easier bookkeeping, 
+and access to digital financial services.","It has 
+increased transparency, reduced corruption, and improved tax compliance by creating a clean 
+digital trail. Businesses of all sizes have gained from faster transactions, easier bookkeeping, 
+and access to digital financial services. In rural ...",qg_verified_expanded,"{'predicted_span': 'easier bookkeeping', 'predicted_full': 'Businesses of all sizes have gained from faster transactions, easier bookkeeping, \nand access to digital financial services.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Businesses of all sizes have gained from faster transactions, easier bookkeeping, 
+and access to digital financial services."
+What has helped rural people receive government benefits directly into their bank accounts?,"In rural areas, digital payment systems have helped 
+people receive government benefits directly into their bank accounts, reducing delays and 
+leakages.","Businesses of all sizes have gained from faster transactions, easier bookkeeping, 
+and access to digital financial services. In rural areas, digital payment systems have helped 
+people receive government benefits directly into their bank accounts, re...",qg_verified_expanded,"{'predicted_span': 'digital payment systems', 'predicted_full': 'In rural areas, digital payment systems have helped \npeople receive government benefits directly into their bank accounts, reducing delays and \nleakages.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"In rural areas, digital payment systems have helped 
+people receive government benefits directly into their bank accounts, reducing delays and 
+leakages."
+What pandemic pushed digital adoption?,"The COVID-19 pandemic further pushed digital adoption as contactless payments 
+became essential for safety.","In rural areas, digital payment systems have helped 
+people receive government benefits directly into their bank accounts, reducing delays and 
+leakages. The COVID-19 pandemic further pushed digital adoption as contactless payments 
+became essential ...",qg_verified_expanded,"{'predicted_span': 'COVID-19', 'predicted_full': 'The COVID-19 pandemic further pushed digital adoption as contactless payments \nbecame essential for safety.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"The COVID-19 pandemic further pushed digital adoption as contactless payments 
+became essential for safety."
+The growth of what comes with challenges?,"However, the growth of digital payments also comes with challenges.","The COVID-19 pandemic further pushed digital adoption as contactless payments 
+became essential for safety. However, the growth of digital payments also comes with challenges. Cybersecurity threats, 
+fraud risks, and lack of digital literacy continue...",qg_verified_expanded,"{'predicted_span': 'digital payments', 'predicted_full': 'However, the growth of digital payments also comes with challenges.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"However, the growth of digital payments also comes with challenges."
+"Along with fraud risks and lack of digital literacy, what continues to affect certain sections of the population?","Cybersecurity threats, 
+fraud risks, and lack of digital literacy continue to affect certain sections of the population.","However, the growth of digital payments also comes with challenges. Cybersecurity threats, 
+fraud risks, and lack of digital literacy continue to affect certain sections of the population. Poor 
+internet connectivity in remote areas can also limit ac...",qg_verified_expanded,"{'predicted_span': 'Cybersecurity threats', 'predicted_full': 'Cybersecurity threats, \nfraud risks, and lack of digital literacy continue to affect certain sections of the population.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Cybersecurity threats, 
+fraud risks, and lack of digital literacy continue to affect certain sections of the population."
+What can also limit access in remote areas?,"Poor 
+internet connectivity in remote areas can also limit access.","Cybersecurity threats, 
+fraud risks, and lack of digital literacy continue to affect certain sections of the population. Poor 
+internet connectivity in remote areas can also limit access. Despite these hurdles, the 
+government, financial institutions...",qg_verified_expanded,"{'predicted_span': 'Poor \ninternet connectivity', 'predicted_full': 'Poor \ninternet connectivity in remote areas can also limit access.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Poor 
+internet connectivity in remote areas can also limit access."
+"Along with the government, technology companies, and what other group are working together to improve security?","Despite these hurdles, the 
+government, financial institutions, and technology companies are working together to improve 
+security, strengthen infrastructure, and educate users.","Poor 
+internet connectivity in remote areas can also limit access. Despite these hurdles, the 
+government, financial institutions, and technology companies are working together to improve 
+security, strengthen infrastructure, and educate users. Overa...",qg_verified_expanded,"{'predicted_span': 'financial institutions', 'predicted_full': 'Despite these hurdles, the \ngovernment, financial institutions, and technology companies are working together to improve \nsecurity, strengthen infrastructure, and educate users.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Despite these hurdles, the 
+government, financial institutions, and technology companies are working together to improve 
+security, strengthen infrastructure, and educate users."
+"In what country do digital payments represent a powerful shift toward a modern, inclusive, and efficient financial system?","Overall, digital payments in India represent a powerful shift toward a modern, inclusive, and 
+efficient financial system.","Despite these hurdles, the 
+government, financial institutions, and technology companies are working together to improve 
+security, strengthen infrastructure, and educate users. Overall, digital payments in India represent a powerful shift toward a m...",qg_verified_expanded,"{'predicted_span': 'India', 'predicted_full': 'Overall, digital payments in India represent a powerful shift toward a modern, inclusive, and \nefficient financial system.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"Overall, digital payments in India represent a powerful shift toward a modern, inclusive, and 
+efficient financial system."
+Which country's economic future will be shaped by digital payments?,"Overall, digital payments in India represent a powerful shift toward a modern, inclusive, and 
+efficient financial system.","Overall, digital payments in India represent a powerful shift toward a modern, inclusive, and 
+efficient financial system. As technology continues to evolve, digital payments will play an even 
+bigger role in shaping India’s economic future, empoweri...",qg_verified_expanded,"{'predicted_span': 'India', 'predicted_full': 'Overall, digital payments in India represent a powerful shift toward a modern, inclusive, and \nefficient financial system.', 'f1': 1.0, 'fuzz': 1.0}",1.0,"As technology continues to evolve, digital payments will play an even 
+bigger role in shaping India’s economic future, empowering millions and supporting the nation’s 
+journey toward a truly digital economy."
